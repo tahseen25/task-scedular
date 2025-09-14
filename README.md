@@ -22,6 +22,4 @@ It allows users to register their emails, receive verification codes, subscribe/
 - **Email Delivery**: PHP `mail()` / SMTP  
 - **Version Control**: Git & GitHub Actions  
 
----
 
-## 📂 Project Structure
